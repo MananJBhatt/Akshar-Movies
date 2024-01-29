@@ -49,4 +49,4 @@ Replace in the code with your actual API key.
 4. Explore trending movies on the home page.
 
 ## License
-This project is licensed under the [MIT LICENSE](License.txt).
+This project is licensed under the [MIT LICENSE](License).
