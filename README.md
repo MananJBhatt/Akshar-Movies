@@ -1,6 +1,6 @@
 # Akshar Movies
 
-MovieApp is a web application that provides information about movies using the TMDb (The Movie Database) API. Users can search for movies, view details, and discover trending movies and trending people
+Akshar Movies is a web application that provides information about movies using the TMDb (The Movie Database) API. Users can search for movies, view details, and discover trending movies and trending people with a fluent and user friendly UI. 
 
 ## Live Website
 -[Akshar Movies](https://chimerical-palmier-167b5e.netlify.app/)
