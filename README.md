@@ -1,4 +1,4 @@
-# MovieApp
+# Akshar Movies
 
 MovieApp is a web application that provides information about movies using the TMDb (The Movie Database) API. Users can search for movies, view details, and discover trending movies and trending people
 
