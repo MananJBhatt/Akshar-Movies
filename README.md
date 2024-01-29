@@ -20,6 +20,7 @@ MovieApp is a web application that provides information about movies using the T
   - HTML
   - CSS
   - JavaScript
+  - Bootstrap
 
 
 - **API:**
